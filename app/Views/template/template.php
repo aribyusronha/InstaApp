@@ -56,7 +56,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="<?= base_url('home/soon') ?>" class="btn btn-light nav-link text-black mb-2 p-2" style="text-align: left; font-size: 12pt;">
+					<a href="<?= base_url('home/profil') ?>" class="btn btn-light nav-link text-black mb-2 p-2" style="text-align: left; font-size: 12pt;">
 						<i class=" bi bi-person-circle me-2" style="font-size: 18pt;"></i>
 						Profile
 					</a>
